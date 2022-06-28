@@ -1,1 +1,1 @@
-testGithubHerokuInt
+This project is to test the publishing of sites created on .Net Core with Heroku as cloud server and service, the link to the site published is this https://netcoretestb.herokuapp.com/ as this is just a test site i will put a lot of garbage there so have fun in it, you will find random things jsjsjsjs
